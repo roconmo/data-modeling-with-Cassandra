@@ -20,7 +20,7 @@ The script to create cluster, set the keyspace, session and databases.
 ```
 $ python create_tables.py
 ```
-To create custom tables and 
+To create the cluster, the keyspace, the database and custom tables. Also there is script to drop the tables. 
 ```
 $ python etl.py
 ```
